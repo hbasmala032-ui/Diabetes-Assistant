@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+*.pdf
+*.zip
+
+# Data
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.xlsx
+
+# Gradio
+gradio_cached_examples/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
