@@ -61,5 +61,5 @@ This project demonstrates how to:
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/who-diabetes-assistant.git
+git clone https://github.com/Basmala Hisham/who-diabetes-assistant.git
 cd who-diabetes-assistant
